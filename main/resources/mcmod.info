@@ -1,14 +1,14 @@
 [
 {
-  "modid": "examplemod",
-  "name": "Example Mod",
-  "description": "Example placeholder mod.",
-  "version": "1.0",
-  "mcversion": "1.10.2",
+  "modid": "lemonutil",
+  "name": "§6Lemon§eUtil",
+  "description": "§6A mod by JakeNelson1999 for the LemonCloud Server.",
+  "version": "1.1",
+  "mcversion": "1.11",
   "url": "",
   "updateUrl": "",
-  "authorList": ["ExampleDude"],
-  "credits": "The Forge and FML guys, for making this example",
+  "authorList": ["§bJakeNelson1999"],
+  "credits": "§eThe LemonCloud community for ideas",
   "logoFile": "",
   "screenshots": [],
   "dependencies": []
