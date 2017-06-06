@@ -1,8 +1,8 @@
 # LemonUtil
 A Client-Side Minecraft Mod which adds features to help users on Factions/Skyblock/Other servers.
 
-- AutoDisconnect when leaving PvP
-- On-Screen armour damage GUI
+- AutoDisconnect when CombatTag notifies leaving PvP
+- On-Screen Armour Damage GUI
 - Auto accept TPA requests from friends or everyone
 - Autosend TPA requests and stop when accepted
 - Send commands/chat messages with KeyBinds
