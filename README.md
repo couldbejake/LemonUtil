@@ -1,5 +1,5 @@
 # LemonUtil
-A Client-Side Minecraft Mod which adds Factions/Skyblock features.
+A Client-Side Minecraft Mod which adds features to help users on Factions/Skyblock/Other servers.
 
 - AutoDisconnect when leaving PvP
 - On-Screen armour damage GUI
@@ -9,4 +9,3 @@ A Client-Side Minecraft Mod which adds Factions/Skyblock features.
 - Allow a bot to send an instant or delayed answer to word scramble questions
 - Notifications when mentioned by other users
 - Update notifications
-- 
