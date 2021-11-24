@@ -1,4 +1,7 @@
 # LemonUtil
+
+The code for this was programmed locally in 2015/16, so unsuprisingly the code is very spaghetti-essque. This was designed for the server lemoncloug.org.
+
 A Client-Side Minecraft Mod which adds features to help users on Factions/Skyblock/Other servers.
 
 - AutoDisconnect when CombatTag notifies leaving PvP
